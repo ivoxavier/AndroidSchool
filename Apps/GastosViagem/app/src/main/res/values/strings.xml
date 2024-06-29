@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GastosViagem</string>
+    <string name="edt_dst">Distância</string>
+    <string name="lbl_dst">Total de quilómetros</string>
+    <string name="edt_prc">Preço</string>
+    <string name="lbl_prc">Preço por litro</string>
+    <string name="edt_aut">Autonomia</string>
+    <string name="lbl_aut">Quilómetros por litro</string>
+    <string name="lbl_custTotal">Custo total</string>
+    <string name="btn_calc">Calcular</string>
+    <string name="lbl_valor">0</string>
+    <string name="validation">Validate all fields</string>
+</resources>
