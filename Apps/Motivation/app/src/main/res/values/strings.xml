@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="lets_begin">Vamos Começar</string>
+    <string name="enter_your_name">Qual é o seu nome?</string>
+    <string name="save_button">Guardar</string>
+    <string name="all_inclusive">All Inclusive</string>
+    <string name="happy">Happy</string>
+    <string name="sunny">Sunny\n</string>
+</resources>
