@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVVMLogin</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha\n</string>
+    <string name="login">Login</string>
+</resources>
