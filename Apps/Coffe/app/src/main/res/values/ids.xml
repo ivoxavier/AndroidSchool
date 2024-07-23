@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="view_header" type="id">view_header</item>
+    <item name="image_clock" type="id">image_clock</item>
+    <item name="image_favorite" type="id">image_favorite</item>
+    <item name="text_minutos" type="id">text_minutos</item>
+    <item name="view_separator" type="id">view_separator</item>
+    <item name="text_descricao" type="id">text_descricao</item>
+    <item name="text_ingredientes" type="id">text_ingredientes</item>
+    <item name="image_ingrediente1" type="id">image_ingrediente1</item>
+    <item name="text_ingrediente1" type="id">text_ingrediente1</item>
+    <item name="image_ingrediente2" type="id">image_ingrediente2</item>
+    <item name="text_ingrediente2" type="id">text_ingrediente2</item>
+    <item name="image_ingrediente3" type="id">image_ingrediente3</item>
+    <item name="text_ingrediente3" type="id">text_ingrediente3</item>
+</resources>
