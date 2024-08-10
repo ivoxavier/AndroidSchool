@@ -11,7 +11,7 @@ import com.ivoxavier.convidados.repository.GuestRepository
 //o AndroidViewModel tem contexto, a ViewModel nao
 class GuestFormViewModel(application: Application) : AndroidViewModel(application) {
 
-    private val repository = GuestRepository.getInstance(application)
+    private val repository = GuestRepository(application)
 
     private val guestModel = MutableLiveData<GuestModel>()
     val guest: LiveData<GuestModel> = guestModel
